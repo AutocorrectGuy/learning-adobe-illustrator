@@ -9,6 +9,7 @@
  - `T` Text
  - `shift + O` Artboard
  - `shift M` Merge shapes
+---
 
 ### Functions
 #### Common usage:
@@ -16,6 +17,7 @@
  - `ctrl + 2` | `ctrl + shift + 2` Lock | Unlock selection
 #### Specific usage:
  - `ctrl + shift + o` Transform text into shapes 
+---
 
 ### Panels
  - `F6` Colors
