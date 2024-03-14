@@ -26,6 +26,6 @@
  - `shift + F8` Transform
  - `shift + F7` Align
  - `ctrl + shift + F9` Pathfinder
- - 
+   
  - `ctrl + F10` Stroke
  - `ctrl + shift + F10` Transparency
