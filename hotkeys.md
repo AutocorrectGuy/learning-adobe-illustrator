@@ -23,11 +23,9 @@
  - `F6` Colors
  - `shift + F6` Appearance
  - `F7` Layers
- - `ctrl + F9` Gradients
-
  - `shift + F8` Transform
  - `shift + F7` Align
  - `ctrl + shift + F9` Pathfinder
-   
+ - `ctrl + F9` Gradients
  - `ctrl + F10` Stroke
  - `ctrl + shift + F10` Transparency
